@@ -1,4 +1,4 @@
-consumer_key = 'your consumer key'
-consumer_secret = 'your consumer secret'
-access_token = 'your access_token'
-access_secret = 'your access_secret'
+consumer_key = 'keQVHkS5sz8Mx5fL4EPI1DOso'
+consumer_secret = 'tXpdhvPgRUzOcAURjRv5pAZeLHdyRBOJWuBbTL38G31T3QcT9i'
+access_token = '321952904-WONOpFv0LJWP5LCMDVVBtGkjfPkVOwkTPOcTKBHu'
+access_secret = 'taPfmSfQG5W4HMpNy1Y8KjkmlxQekigiZ1EXrO4tOcGMy'
